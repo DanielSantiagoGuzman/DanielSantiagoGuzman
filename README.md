@@ -79,5 +79,5 @@ XGBoost · Random Forest · ARIMA · Prophet
 ---
 
 <p align="center">
-  <i>Open to BIE, Data Analyst, and Product Analyst roles · OPT available August 2026</i>
+  <i>Open to BIE, Data Analyst, and Product Analyst roles. </i>
 </p>
