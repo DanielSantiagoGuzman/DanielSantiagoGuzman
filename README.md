@@ -60,8 +60,8 @@ XGBoost · Random Forest · ARIMA · Prophet
 
 ### 🚧 Currently building
 
-- **Personal analytics portfolio:** Spotify (8 years, 182k+ streams), Amazon order history, and WHOOP biometric data as first-party datasets for product-analytics case studies
-- **Voir Dire:** agentic job-application pipeline (Claude API + MCP stack) with sponsorship triage, weighted job scoring, and ATS validation grounded on a scraped JD corpus
+- **Personal analytics - Music Intelligence App Recommendation System:** Spotify (8 years, 182k+ streams), Amazon order history, and WHOOP biometric data as first-party datasets for product-analytics case studies
+- **Voir Dire:** agentic job-application RAG pipeline (Claude API + MCP stack) with sponsorship triage, weighted job scoring, and ATS validation grounded on a scraped JD corpus
 - **Snowflake ecosystem fluency:** Cortex, Snowpark, SnowPro Core
 
 ---
