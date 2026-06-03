@@ -18,9 +18,9 @@
 
 ### 🎯 What I do
 
-I build the analytics layer between messy data and business decisions — experimentation design, causal lift measurement, predictive modeling, and the BI infrastructure that makes those answers reproducible.
+I build the analytics layer between messy data and business decisions; experimentation design, causal lift measurement, predictive modeling, and the BI infrastructure that makes those answers reproducible.
 
-- 🏆 **MIT Sloan Sports Analytics Competition** — Top 3 Global Finalist, 2026
+- 🏆 **MIT Sloan Sports Analytics Competition** — Top 3 Global Finalist (Runner-Up), 2026
 - 🎓 **MS Business Analytics**, University of Washington Foster (GPA 3.85)
 - 💼 3+ years analyst experience across logistics, IT distribution, and renewable energy
 - 📍 Seattle, WA — open to BIE, Data Analyst, and Product Analyst roles
