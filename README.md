@@ -79,5 +79,5 @@ XGBoost · Random Forest · ARIMA · Prophet
 ---
 
 <p align="center">
-  <i>Open to BIE, Data Analyst, and Product Analyst roles. </i>
+  <i>Open to Product Manager, Growth, and Product Analyst roles. </i>
 </p>
