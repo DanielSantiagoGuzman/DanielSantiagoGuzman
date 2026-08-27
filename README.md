@@ -49,9 +49,9 @@ Built the causal evaluation engine behind a multi-arm experimentation agent: pro
 
 ### 🧪 Running the same discipline on my own data
 
-- 🎧 8 years and 182k+ Spotify streams: A music-intelligence recommendation system
-- 🛒 Amazon order history: E-commerce pricing analytics
-- ⌚ WHOOP biometrics: A first-party dataset for product-analytics case studies
+- 🎧 9 years and 182k+ Spotify streams: A music-intelligence recommendation system
+- 🛒 Amazon Order History: E-commerce pricing analytics
+- ⌚ ŌURA Biometrics: A first-party dataset for product-analytics case studies
 
 ---
 
