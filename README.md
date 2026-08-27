@@ -78,5 +78,5 @@ Python · SQL · R · Experimentation (A/B Testing, DiD, Synthetic Control, IPW,
 ---
 
 <p align="center">
-  <i>Daniel is the kind of Product Analyst who does not let a team act on a number until he has checked whether that number means what everyone assumes it means.</i>
+  <i>I'm the kind of Product Analyst who does not let a team act on a number until I have checked whether that number means what everyone assumes it means.</i>
 </p>
