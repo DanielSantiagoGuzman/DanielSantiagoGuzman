@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 
 <p align="center">
-  <b>Business Intelligence & Data Analyst</b> · MS Business Analytics, UW Foster · Seattle, WA
+  <b>Product Analyst</b> · Experimentation, User Behavior & Evidence Quality · Seattle, WA
 </p>
 
 <p align="center">
-  Turning raw data into strategy. Experimentation, causal inference, and BI infrastructure for decisions that actually ship.
+  I test the story behind a metric before recommending the decision it should influence.
 </p>
 
 <p align="center">
@@ -16,56 +16,49 @@
 
 ---
 
-### 🎯 What I do
+### 🎯 What I actually do
 
-I build the analytics layer between messy data and business decisions; experimentation design, causal lift measurement, predictive modeling, and the BI infrastructure that makes those answers reproducible.
+Most teams don't have a data problem. They have a distance problem: what an organization believes about its users and what those users actually do quietly drift apart, and nobody notices until a decision gets made on the strength of a number nobody re-checked.
 
-- 🏆 **MIT Sloan Sports Analytics Competition** — Top 3 Global Finalist (Runner-Up), 2026
-- 🎓 **MS Business Analytics**, University of Washington Foster (GPA 3.85)
-- 💼 3+ years analyst experience across logistics, IT distribution, and renewable energy
-- 📍 Seattle, WA — open to BIE, Data Analyst, and Product Analyst roles
+I build the measurement and experimentation work that closes that distance: designing tests that hold up under scrutiny, running causal analysis when a clean experiment isn't possible, and reporting the honest answer at its true strength, null results included.
 
----
+Consumer tech is where I do this work. Media and streaming is where it shows up sharpest. AI products are where I'm applying the same discipline next.
 
-### 🛠️ Stack
-
-**Languages & Querying**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Data & Warehousing**
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-**BI & Viz**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-**Experimentation & Stats**
-A/B Testing · Difference-in-Differences · Synthetic Control · IPW · Double ML · Power & MDE
-
-**ML & Time Series**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-XGBoost · Random Forest · ARIMA · Prophet
-
-**Cloud & Infra**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🏆 **MIT Sloan Sports Analytics Conference**: Global Finalist, Runner-Up (2nd of 3 finalists), 2026, validated by Kraft Analytics Group
+- 🎓 **MS Business Analytics**, University of Washington Foster (GPA 3.85, Top 10%)
+- 💼 4 years turning ambiguous product and business questions into evidence a team can act on, across logistics, IT distribution, and renewable energy
+- 📍 Seattle, WA, open to Product Analyst roles in consumer tech and media/streaming
 
 ---
 
-### 🚧 Currently building
+### 🔍 Selected work
 
-- **Personal Analytics Projects**
-  - **Music Intelligence App Recommendation System:** Spotify (8 years, 182k+ streams).
-  - Amazon e-commerce Pricing Analytics order history.
-  - WHOOP biometric data as first-party datasets for product-analytics case studies.
-- **Voir Dire:** agentic job-application RAG pipeline (Claude API + MCP stack) with sponsorship triage, weighted job scoring, and ATS validation grounded on a scraped JD corpus
-- **Snowflake ecosystem fluency:** Cortex, Snowpark, SnowPro Core
+**Charlotte FC Silver Club — Segmentation & Churn** *(MIT SSAC)*
+Built an end-to-end segmentation and churn pipeline on ~11,200 season-ticket members. The finding that reframed the client's retention strategy: unused tickets, not resale or transfer, were the real churn signal. Silence, not visible drop-off, was the thing to watch for.
+
+**576K-User A/B Test — Marketing Spend Reallocation**
+Designed and analyzed a randomized experiment with full balance checks and ITT/ATT estimation, then segmented treatment effects by cohort to show exactly where the campaign worked and where it didn't.
+
+**Geo-Experiment & Difference-in-Differences — 200 U.S. Markets**
+Measured the incremental lift of local search advertising against naive last-click attribution, isolating the number a media budget decision could actually be built on.
+
+**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, MSBA)*
+Built the causal evaluation engine behind a multi-arm experimentation agent: propagated variance, weighted composite scoring, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands.
+
+---
+
+### 🧪 Running the same discipline on my own data
+
+- 🎧 8 years and 182k+ Spotify streams → a music-intelligence recommendation system
+- 🛒 Amazon order history → e-commerce pricing analytics
+- ⌚ WHOOP biometrics → a first-party dataset for product-analytics case studies
+
+---
+
+### 🚧 Also in progress
+
+- **Voir Dire**: an agentic job-search pipeline (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
+- Deepening Snowflake ecosystem fluency: Cortex, Snowpark, SnowPro Core
 
 ---
 
@@ -78,6 +71,12 @@ XGBoost · Random Forest · ARIMA · Prophet
 
 ---
 
+### 🛠️ Supporting toolkit
+
+Python · SQL · R · Experimentation (A/B Testing, DiD, Synthetic Control, IPW, Double ML) · XGBoost, Random Forest, ARIMA/Prophet · Tableau, Power BI · Snowflake, Databricks, AWS
+
+---
+
 <p align="center">
-  <i>Open to Product Manager, Growth, and Product Analyst roles. </i>
+  <i>Daniel is the kind of Product Analyst who does not let a team act on a number until he has checked whether that number means what everyone assumes it means.</i>
 </p>
