@@ -34,15 +34,19 @@ Consumer tech is where I do this work. Media and streaming is where it shows up 
 ### 🔍 Selected work
 
 **Charlotte FC Silver Club: Segmentation & Churn** *(MIT SSAC 2026)*
+
 Built an end-to-end segmentation and churn pipeline on ~11,200 season-ticket members. The finding that reframed the client's retention strategy: unused tickets, not resale or transfer, were the real churn signal. Silence, not visible drop-off, was the thing to watch for.
 
 **576K-User A/B Test: Marketing Spend Reallocation**
+
 Designed and analyzed a randomized experiment with full balance checks and ITT/ATT estimation, then segmented treatment effects by cohort to show exactly where the campaign worked and where it didn't.
 
 **Geo-Experiment & Difference-in-Differences: 200 U.S. Markets**
+
 Measured the incremental lift of local search advertising against naive last-click attribution, isolating the number a media budget decision could actually be built on.
 
 **Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, Phoenix)*
+
 Built the causal evaluation engine behind a multi-arm experimentation agent: propagated variance, weighted composite scoring, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands.
 
 ---
