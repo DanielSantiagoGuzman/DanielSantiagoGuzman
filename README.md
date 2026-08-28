@@ -120,8 +120,9 @@ XGBoost · Random Forest · ARIMA · Prophet
 ---
 
 <p align="center">
-  <i>I'm the kind of Product Analyst who does not let a team act on a number until I have checked whether that number means what everyone assumes it means.
-  
+  <i>I'm the kind of Product Analyst who does not let a team act on a number until I have checked whether that number means what everyone assumes it means.</i>
+</p>
+
 <p align="center">
-    Open to Product Manager, Growth, and Product Analyst roles.</i>
+  Open to Product Analyst roles in consumer tech and media/streaming.
 </p>
