@@ -42,7 +42,7 @@ Designed and analyzed a randomized experiment with full balance checks and ITT/A
 **Geo-Experiment & Difference-in-Differences: 200 U.S. Markets**
 Measured the incremental lift of local search advertising against naive last-click attribution, isolating the number a media budget decision could actually be built on.
 
-**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, Phoneix)*
+**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, Phoenix)*
 Built the causal evaluation engine behind a multi-arm experimentation agent: propagated variance, weighted composite scoring, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands.
 
 ---
