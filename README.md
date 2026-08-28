@@ -65,8 +65,8 @@ Built the causal evaluation engine behind a multi-arm experimentation agent: pro
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielSantiagoGuzman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSantiagoGuzman&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-frontend-gilt.vercel.app/api?username=DanielSantiagoGuzman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-frontend-gilt.vercel.app/api/top-langs/?username=DanielSantiagoGuzman&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" height="165"/>
 </p>
 
 ---
