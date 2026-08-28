@@ -33,31 +33,31 @@ Consumer tech is where I do this work. Media and streaming is where it shows up 
 
 ### 🔍 Selected work
 
-**Charlotte FC Silver Club — Segmentation & Churn** *(MIT SSAC)*
+**Charlotte FC Silver Club: Segmentation & Churn** *(MIT SSAC)*
 Built an end-to-end segmentation and churn pipeline on ~11,200 season-ticket members. The finding that reframed the client's retention strategy: unused tickets, not resale or transfer, were the real churn signal. Silence, not visible drop-off, was the thing to watch for.
 
-**576K-User A/B Test — Marketing Spend Reallocation**
+**576K-User A/B Test Marketing Spend Reallocation**
 Designed and analyzed a randomized experiment with full balance checks and ITT/ATT estimation, then segmented treatment effects by cohort to show exactly where the campaign worked and where it didn't.
 
-**Geo-Experiment & Difference-in-Differences — 200 U.S. Markets**
+**Geo-Experiment & Difference-in-Differences 200 U.S. Markets**
 Measured the incremental lift of local search advertising against naive last-click attribution, isolating the number a media budget decision could actually be built on.
 
-**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, MSBA)*
+**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, MSBA Capstone)*
 Built the causal evaluation engine behind a multi-arm experimentation agent: propagated variance, weighted composite scoring, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands.
 
 ---
 
 ### 🧪 Running the same discipline on my own data
 
-- 🎧 8 years and 182k+ Spotify streams → a music-intelligence recommendation system
-- 🛒 Amazon order history → e-commerce pricing analytics
-- ⌚ WHOOP biometrics → a first-party dataset for product-analytics case studies
+- 🎧 9 years and 182k+ Spotify streams: A music-intelligence recommendation system
+- 🛒 Amazon Order History: E-commerce pricing analytics
+- ⌚ ŌURA Biometrics: A first-party dataset for product-analytics case studies
 
 ---
 
 ### 🚧 Also in progress
 
-- **Voir Dire**: a personal job-application pipeline and decision-support system (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
+- **Voir Dire**: A personal job-application pipeline and decision-support system (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
 - Deepening Snowflake ecosystem fluency: Cortex, Snowpark, SnowPro Core
 
 ---
@@ -90,7 +90,7 @@ Built the causal evaluation engine behind a multi-arm experimentation agent: pro
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Product Analytic Tools & Platforms**
+**Product Analytics Tools & Platforms**
 ![Amplitude](https://img.shields.io/badge/Amplitude-0060F0?style=flat-square&logo=amplitude&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
