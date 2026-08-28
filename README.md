@@ -124,5 +124,5 @@ XGBoost · Random Forest · ARIMA · Prophet
 </p>
 
 <p align="center">
-  Open to Product Analyst roles in consumer tech and media/streaming.
+  Open to Product Manager, Growth, and Product Analyst roles.
 </p>
