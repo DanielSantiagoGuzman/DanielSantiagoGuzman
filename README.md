@@ -122,5 +122,6 @@ XGBoost · Random Forest · ARIMA · Prophet
 <p align="center">
   <i>I'm the kind of Product Analyst who does not let a team act on a number until I have checked whether that number means what everyone assumes it means.
   
-  Open to Product Manager, Growth, and Product Analyst roles.</i>
+<p align="center">
+    Open to Product Manager, Growth, and Product Analyst roles.</i>
 </p>
