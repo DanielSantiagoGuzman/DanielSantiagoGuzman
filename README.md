@@ -45,9 +45,33 @@ Designed and analyzed a randomized experiment with full balance checks and ITT/A
 
 Measured the incremental lift of local search advertising against naive last-click attribution, isolating the number a media budget decision could actually be built on.
 
-**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, Phoenix)*
+**Adaptive Experimentation Agent** *(Dell Corporate Strategy Office, MSBA)*
 
-Built the causal evaluation engine behind a multi-arm experimentation agent: propagated variance, weighted composite scoring, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands.
+Built with Dell's Corporate Strategy Office during the MSBA program, this experimentation agent automates the A/B test interpretation loop for a $300B+ gaming industry market, ingesting test data, evaluating results, and issuing a recommendation without a human running the numbers first.
+
+My piece was the causal evaluation layer: propagated variance, weighted composite scoring across the metrics that mattered, and a rule that withholds a winner recommendation whenever arms fall inside each other's uncertainty bands, validated against a frozen benchmark before the team signed off on it.
+
+---
+
+### 🏗️ Independent Builds
+
+Nobody assigned these. No course provided the dataset, no client scoped the question, no team came pre-built. Each one started from a blank problem I chose to go build.
+
+**Football Transfer Intelligence: Player Valuation & Market Movement**
+
+Designed and built a 7-phase pipeline end to end (Apify, S3, Airflow, Databricks, Redshift, Kafka, Tableau) forecasting player transfer value and market movement, the problem, data source, and architecture were all mine to define.
+
+**MIRA: Autonomous Market Intelligence Agent**
+
+Built a ReAct-pattern agent (LangGraph, ChromaDB, OpenRouter) that retrieves and synthesizes earnings calls, SEC filings, and market reports into structured strategic briefs, turning a multi-hour research task into an automated retrieval and synthesis pipeline.
+
+**SignalOps: Data Reliability & Product Analytics Pipeline**
+
+Built an end-to-end data reliability and product-analytics pipeline on the Olist Brazilian e-commerce dataset, enriched with Overpass API geographic data, pairing pipeline validation work with the analysis it feeds instead of treating the two as separate jobs.
+
+**ReleaseLab: Pre-Release Audience Signal Backtest** *(spec locked, build not started)*
+
+A pre-registered backtest testing whether LLM persona simulation forecasts pre-release audience divergence better than cheap statistical baselines, built around one question: before paying for audience research on a launch that can't be A/B tested, which signal is actually worth the spend? Five-arm design with kill gates locked; a negative result counts as a complete outcome, not a failed one. Phase 1, the leakage audit that has to clear before any modeling starts, hasn't begun.
 
 ---
 
@@ -61,7 +85,7 @@ Built the causal evaluation engine behind a multi-arm experimentation agent: pro
 
 ### 🚧 Also in progress
 
-- **Voir Dire**: A personal job-application pipeline and decision-support system (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
+- **Voir Dire**: A personal agent-based decision-support system (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
 - Deepening Snowflake ecosystem fluency: Cortex, Snowpark, SnowPro Core
 
 ---
@@ -124,5 +148,5 @@ XGBoost · Random Forest · ARIMA · Prophet
 </p>
 
 <p align="center">
-  Open to Product Manager, Growth, and Product Analyst roles.
+  Open to Product Analyst roles in consumer tech and media/streaming.
 </p>
