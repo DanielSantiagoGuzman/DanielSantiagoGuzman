@@ -86,6 +86,7 @@ A pre-registered backtest testing whether LLM persona simulation forecasts pre-r
 ### 🚧 Also in progress
 
 - **Voir Dire**: A personal agent-based decision-support system (Claude API + MCP stack) that scores and triages roles against a scraped JD corpus before I touch an application
+- Certification(s): AWS Certified Cloud Practitioner (CLF-C02)
 - Deepening Snowflake ecosystem fluency: Cortex, Snowpark, SnowPro Core
 
 ---
