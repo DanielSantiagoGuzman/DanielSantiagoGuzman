@@ -37,7 +37,7 @@ Consumer tech is where I do this work. Media and streaming is where it shows up 
 
 Built an end-to-end segmentation and churn pipeline on ~11,200 season-ticket members. The finding that reframed the client's retention strategy: unused tickets, not resale or transfer, were the real churn signal. Silence, not visible drop-off, was the thing to watch for.
 
-**576K-User A/B Test: Marketing Spend Reallocation**
+**Marketing Spend Reallocation: A 576K-User A/B Test**
 
 Designed and analyzed a randomized experiment with full balance checks and ITT/ATT estimation, then segmented treatment effects by cohort to show exactly where the campaign worked and where it didn't.
 
